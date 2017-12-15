@@ -30,6 +30,12 @@ public with sharing class Game
     	return winner;
     }
 
+	public void fakeMethod(){
+		String fakeVar = 'nope';
+
+		fakeVar = fakeVar;
+	}
+
     /**
      * Make for one kick from one side.
      * Check is unit.hp more than 0, if no - game will be stopped.
