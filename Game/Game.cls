@@ -30,10 +30,13 @@ public with sharing class Game
     	return winner;
     }
 
-	public void fakeMethod(){
+	public void fakeMethod(String blah){
 		String fakeVar = 'nope';
 
 		fakeVar = fakeVar;
+		blah = fakeVar;
+
+
 	}
 
     /**
