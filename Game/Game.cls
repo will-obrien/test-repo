@@ -1,6 +1,6 @@
 /**
  * Game class represents the game between two units and choose winner. 
- * 
+ *blah blah blah 
  * @author  Adel Hammoudi
  * @version 1.0, June 2016
  */
@@ -15,6 +15,7 @@ public with sharing class Game
 		gameDescriptionList = gameDescriptionList;
 	}
 	//New Trash comments
+	//Another line of trash
     /**
      * Return List<String> with description of game.
      */
