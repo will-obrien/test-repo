@@ -14,7 +14,7 @@ public with sharing class Game
 		gameDescriptionList = new List<String>();
 		gameDescriptionList = gameDescriptionList;
 	}
-
+	//New Trash comments
     /**
      * Return List<String> with description of game.
      */
