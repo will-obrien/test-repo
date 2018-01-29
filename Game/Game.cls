@@ -12,6 +12,7 @@ public with sharing class Game
     public Game() 
 	{
 		gameDescriptionList = new List<String>();
+		gameDescriptionList = gameDescriptionList;
 	}
 
     /**
