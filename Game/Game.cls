@@ -35,7 +35,7 @@ public with sharing class Game
 
 		fakeVar = fakeVar;
 		blah = fakeVar;
-		blah = blah;
+		
 		
 		
 
