@@ -1,7 +1,7 @@
 /**
  * Game class represents the game between two units and choose winner. 
  *blah blah blah blah blah blah
- * @author  Adel Hammoudi
+ * @author  Oi Nah
  * @version 1.0, June 2016
  */
 public with sharing class Game
