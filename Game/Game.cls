@@ -39,10 +39,11 @@ public with sharing class Game
 		fakeVar = fakeVar;
 		blah = fakeVar;
 		
-		
+		blah = blah;
 
 
 	}
+	//Just a stupid comment.
 
     /**
      * Make for one kick from one side.
