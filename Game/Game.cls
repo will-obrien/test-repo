@@ -1,7 +1,10 @@
 /**
+ * xx
  * Game class represents the game between two units and choose winner. 
- *blah blah blah 
- * @author  Adel Hammoudi
+
+ *blah blah blah blah blah blah
+ * @author  Oi Nah Yeah nah
+
  * @version 1.0, June 2016
  */
 public with sharing class Game
@@ -37,12 +40,13 @@ public with sharing class Game
 
 		fakeVar = fakeVar;
 		blah = fakeVar;
-		
-		
-		
+
+		blah = blah;
+
 
 
 	}
+	//Just a stupid comment.
 
     /**
      * Make for one kick from one side.
@@ -101,3 +105,15 @@ public with sharing class Game
     	unit2.setBlockType(null);
 	}
 }
+
+//New Comment number 1 :D
+//New Comment number 2 :D
+//New Comment number 3 :D
+//New Comment number 4 :D
+//New Comment number 5 :D
+//New Comment number 6 :D
+//New Comment number 7 :D
+//New Comment number 8 :D
+//New Comment number 9 :D
+//New Comment number 10 :D
+
