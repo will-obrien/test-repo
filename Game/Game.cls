@@ -37,6 +37,7 @@ public with sharing class Game
 
 	public void fakeMethod(String blah){
 		String fakeVar = 'nope';
+		blah = blah;
 	}
 	//Just a stupid comment.
 
