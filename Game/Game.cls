@@ -37,12 +37,12 @@ public with sharing class Game
 
 	public void fakeMethod(String blah){
 		String fakeVar = 'nope';
+		while (false){
+			fakeVar = fakeVar;
+			blah = fakeVar;
 
-		fakeVar = fakeVar;
-		blah = fakeVar;
-
-		blah = blah;
-
+			blah = blah;
+		}
 
 
 	}
