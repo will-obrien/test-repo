@@ -15,6 +15,7 @@ public with sharing class Game
     public Game() 
 	{
 		gameDescriptionList = new List<String>();
+		gameDescriptionList = gameDescriptionList;
 	}
 	//New Trash comments
 	//Another line of trash
@@ -35,6 +36,7 @@ public with sharing class Game
     }
 
 	public void fakeMethod(String blah){
+	 blah = blah;
 
 	}
 	//Just a stupid comment.
