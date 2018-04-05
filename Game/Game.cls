@@ -38,6 +38,8 @@ public with sharing class Game
 	public void fakeMethod(String blah){
 		blah = blah;
 		blah = 'blah';
+		Integer newInt = 4;
+		newInt = newInt;
 	}
 	//Just a stupid comment.
 
