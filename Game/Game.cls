@@ -34,6 +34,9 @@ public with sharing class Game
     	return winner;
     }
 
+	/**
+	* This method is empty for a reason
+	*/
 	public void fakeMethod(String blah){
 
 	}
