@@ -1,0 +1,6 @@
+
+9sf:IdempotentOperations"Assignment has no effect(¥öùğ
+Rsf:AvoidReassigningParameters"+Avoid reassigning parameters such as 'blah'(†ÆúÅ
+9sf:IdempotentOperations"Assignment has no effect(ºÓÙ†
+{sf:AvoidDuplicateLiterals"XThe String literal ': ' appears 4 times in this file; the first occurrence is on line 66(¢İŠ
+@sf:ConfusingTernary"Avoid if (x != y) ..; else ..;(­ä²ïüÿÿÿÿ
