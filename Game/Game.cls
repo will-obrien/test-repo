@@ -48,7 +48,13 @@ public with sharing class Game
 		blah = 'blah';
 		blah = 'blah';
 		blah = 'blah';
+
+		System.debug('This is not great');
+		System.debug('This is not great');
+		System.debug('This is not great');
+		System.debug('This is not great');
 		
+
 	}
 	//Just a stupid comment.
 
