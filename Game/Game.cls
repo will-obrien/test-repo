@@ -40,6 +40,15 @@ public with sharing class Game
 		blah = 'blah';
 		Integer newInt = 4;
 		newInt = newInt;
+		blah = 'blah';
+		blah = 'blah';
+		blah = 'blah';
+
+		blah = 'blah';
+		blah = 'blah';
+		blah = 'blah';
+		blah = 'blah';
+		
 	}
 	//Just a stupid comment.
 
