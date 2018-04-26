@@ -36,27 +36,10 @@ public with sharing class Game
 
 	
 	public void fakeMethod(String blah){
-		blah = blah;
-		blah = 'blah';
-		Integer newInt = 4;
-		newInt = newInt;
-		blah = 'blah';
-		blah = 'blah';
-		blah = 'blah';
 
-		blah = 'blah';
-		blah = 'blah';
-		blah = 'blah';
-		blah = 'blah';
-
-		System.debug('This is not great');
-		System.debug('This is not great');
-		System.debug('This is not great');
-		System.debug('This is not great');
-		
 
 	}
-	//Just a stupid comment.
+
 
     /**
      * Make for one kick from one side.
