@@ -1,0 +1,68 @@
+
+l
+AWKuS7eNrWyklK8y-HzJsf:AvoidGetSetMethods"+Use an accessor method instead of getWinner(£Ä¬÷şÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzFsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+V
+AWKuS7eNrWyklK8y-HzNsf:IdempotentOperations"Assignment has no effect(ºÓÙ†8°ı­òª,
+k
+AWE_YhLEz6GxYuJdaW5msf:CommentRequired"3Public method and constructor comments are Required(³ù¹8Àî†û“,
+T
+AWE_YhLEz6GxYuJdaW5lsf:CommentRequired"Field comments are Required(êóòÌ8Àî†û“,
+p
+AWKuS7eNrWyklK8y-HzPsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzKsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+l
+AWE_YhLEz6GxYuJdaW5hsf:ShortClassName"4A Classname should have a minimum of five characters(«‚Á8Àî†û“,
+t
+AWE_YhLEz6GxYuJdaW5isf:LongVariable">Avoid excessively long variable names like gameDescriptionList(ãºöÁ8Àî†û“,
+T
+AWE_YhLEz6GxYuJdaW5jsf:CommentRequired"Field comments are Required(ãºöÁ8Àî†û“,
+ª
+AWE_YhLEz6GxYuJdaW5ksf:ImmutableField"rPrivate field 'gameDescriptionList' could be made final; it is only initialized in the declaration or constructor.(ãºöÁ8Àî†û“,
+š
+AWLRRQF16vN5fjRmD1lmsf:AvoidDuplicateLiterals"ZThe String literal 'blah' appears 8 times in this file; the first occurrence is on line 40(´–°8À‹“Š­,
+p
+AWKuS7eNrWyklK8y-HzQsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+ƒ
+AWKuS7eNrWyklK8y-HzRsf:RightBracesLinePositions"<Else statement must be on the same line as the closing brace(„¶áìøÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzSsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+o
+AWE_YhLEz6GxYuJdaW5nsf:AvoidReassigningParameters"+Avoid reassigning parameters such as 'blah'(†ÆúÅ8Àî†û“,
+t
+AWKuS7eNrWyklK8y-HzHsf:AvoidGetSetMethods"8Use an accessor method instead of getGameDescriptionList(ê‹˜í8°ı­òª,
+w
+AWKuS7eNrWyklK8y-HzMsf:LeftBracesSpacingPositions"3Must have a single whitespace before opening braces(†ÆúÅ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzTsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzVsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+[
+AWKuS7eNrWyklK8y-HzOsf:IdempotentOperations"Assignment has no effect(§âé–şÿÿÿÿ8°ı­òª,
+v
+AWKuS7eNrWyklK8y-HzGsf:LeftBracesSpacingPositions"3Must have a single whitespace before opening braces(³ù¹8°ı­òª,
+ƒ
+AWKuS7eNrWyklK8y-HzUsf:RightBracesLinePositions"<Else statement must be on the same line as the closing brace(„¶áìøÿÿÿÿ8°ı­òª,
+§
+AWLRTAHC6vN5fjRmD1nTsf:AvoidDuplicateLiterals"gThe String literal 'this is not great' appears 4 times in this file; the first occurrence is on line 52(ğ‰‚8 •¯Š­,
+p
+AWKuS7eNrWyklK8y-HzWsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+ƒ
+AWKuS7eNrWyklK8y-HzXsf:RightBracesLinePositions"<Else statement must be on the same line as the closing brace(„¶áìøÿÿÿÿ8°ı­òª,
+l
+AWE_YhLEz6GxYuJdaW5psf:CommentRequired"3Public method and constructor comments are Required(†ÆúÅ8Àî†û“,
+m
+AWKuS7eNrWyklK8y-HzEsf:ClassWithoutTestClass".Class does not have a corresponding test class(«‚Á8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzIsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzYsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+p
+AWKuS7eNrWyklK8y-HzZsf:LeftBracesLinePositions"*Opening braces must start on the same line(ÒÌâ–øÿÿÿÿ8°ı­òª,
+f
+AWKuS7eNrWyklK8y-HzLsf:MethodCouldBeStatic")Method could be converted to being static(†ÆúÅ8°ı­òª,
+]
+AWE_YhLEz6GxYuJdaW5tsf:ConfusingTernary"Avoid if (x != y) ..; else ..;(­ä²ïüÿÿÿÿ8Àî†û“,
+‚sf:AvoidDuplicateLiterals"XThe String literal ': ' appears 4 times in this file; the first occurrence is on line 85(¢İŠ8šÌº«,
