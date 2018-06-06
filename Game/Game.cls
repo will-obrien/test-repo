@@ -11,7 +11,7 @@ public with sharing class Game
 {
 	private List<String> gameDescriptionList;
     private Unit winner;
-    
+
     public Game() 
 	{
 		gameDescriptionList = new List<String>();

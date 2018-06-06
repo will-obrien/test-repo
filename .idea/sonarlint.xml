@@ -7,7 +7,7 @@
       </map>
     </option>
     <option name="bindingEnabled" value="true" />
-    <option name="projectKey" value="ustramooner-codescan-test" />
-    <option name="serverId" value="Cloud" />
+    <option name="projectKey" value="codescan-salesforce" />
+    <option name="serverId" value="local" />
   </component>
 </project>
