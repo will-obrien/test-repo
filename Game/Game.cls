@@ -7,13 +7,11 @@
 
  * @version 1.0, June 2016
  */
-public with sharing class Game
-{
+public with sharing class GameClass {
 	private List<String> gameDescriptionList;
     private Unit winner;
-
-    public Game() 
-	{
+    
+    public Game() {
 		gameDescriptionList = new List<String>();
 		gameDescriptionList = gameDescriptionList;
 	}
@@ -22,26 +20,18 @@ public with sharing class Game
     /**
      * Return List<String> with description of game.
      */
-    public List<String> getGameDescriptionList()
-    {
+    public List<String> getGameDescriptionList() {
         return gameDescriptionList;
     }
 
     /**
 	* Return Unit is a winner of the game.
 	*/
-    public Unit getWinner()
-    {
+    public Unit getWinner() {
     	return winner;
     }
 
-	
-	public void fakeMethod(String blah){
-	 blah = blah;
-	 blah = 4;
 
-
-	}
 
 
     /**
@@ -53,43 +43,32 @@ public with sharing class Game
      * @param Unit unit1, Unit unit2 units which will play game.
      * @see #Unit
      */
-	public void fight(Unit unit1, Unit unit2)
-	{
+	public void fight(Unit unit1, Unit unit2) {
 		Integer kick;
 		kick = unit1.getKick(unit2);
-		if (kick == 0)
-		{
+		if (kick == 0) {
 			gameDescriptionList.add(unit1.getName() + '\'s kick was blocked!');
-		}
-		else
-		{
+		} else {
 			unit2.setHp(unit2.getHp() - kick);
 			gameDescriptionList.add(unit1.getName() + ' kicked on ' + kick + ' hp');
 		}    		
 		gameDescriptionList.add('Balance Hp: ' + unit1.getName() + ': ' + unit1.getHp() + '; ' 
 								+ unit2.getName() + ': ' + unit2.getHp());
-		if(!unit2.isLive())
-	    {
+		if(!unit2.isLive()) {
 	    	gameDescriptionList.add(unit1.getName() + ' win!');
 	    	gameDescriptionList.add('Game over!');
             winner = unit1;
-	    }	
-	    else
-	    {
+	    } else {
 	    	kick = unit2.getKick(unit1);
-			if (kick == 0)
-			{
+			if (kick == 0) {
 				gameDescriptionList.add(unit2.getName() + '\'s kick was blocked!');
-			}
-			else
-			{
+			} else {
 				unit1.setHp(unit1.getHp() - kick);
 				gameDescriptionList.add(unit2.getName() + ' kicked on ' + kick + ' hp');	
 			}    		
 			gameDescriptionList.add('Balance Hp: ' + unit1.getName() + ': ' + unit1.getHp() + '; '
 									 + unit2.getName() + ': ' + unit2.getHp());
-			if(!unit1.isLive())
-		    {
+			if(!unit1.isLive()) 	{
 		    	gameDescriptionList.add(unit2.getName() + ' win!');
 		    	gameDescriptionList.add('Game over!');
 	            winner = unit2;
