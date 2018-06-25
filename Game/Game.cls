@@ -68,7 +68,7 @@ public with sharing class GameClass {
 			}    		
 			gameDescriptionList.add('Balance Hp: ' + unit1.getName() + ': ' + unit1.getHp() + '; '
 									 + unit2.getName() + ': ' + unit2.getHp());
-			if(!unit1.isLive()) {
+			if(!unit1.isLive()) 	{
 		    	gameDescriptionList.add(unit2.getName() + ' win!');
 		    	gameDescriptionList.add('Game over!');
 	            winner = unit2;
