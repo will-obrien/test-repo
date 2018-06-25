@@ -39,6 +39,14 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.project.license" />
+        <option value="$PROJECT_DIR$/Game/Game.cls" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="1078" />
     <option name="width" value="1920" />
@@ -99,7 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.sonarlint.intellij.config.project.SonarLintProjectConfigurable" />
+    <property name="settings.editor.selected.configurable" value="SonarLintApp" />
     <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="All project files" />
     <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.3218912" />
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
