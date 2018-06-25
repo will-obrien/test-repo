@@ -31,7 +31,9 @@ public with sharing class GameClass {
     	return winner;
     }
 
-		private void terribleMethod(){}
+		private void terribleMethod(){
+		//Here's a comment for pr-pr
+		}
 
 
 
