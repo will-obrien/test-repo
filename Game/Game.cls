@@ -31,6 +31,7 @@ public with sharing class GameClass {
     	return winner;
     }
 
+		private void terribleMethod(){}
 
 
 
