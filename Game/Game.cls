@@ -31,7 +31,13 @@ public with sharing class GameClass {
     	return winner;
     }
 
-		//testing hook
+		private void terribleMethod(Integer param){
+			param = param;
+			param = 1;
+		//Here's a comment for pr-pr
+		}
+
+		//another comment for the webhook
 
 
     /**
