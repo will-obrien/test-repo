@@ -39,6 +39,7 @@ public with sharing class GameClass {
 
 		//another comment for the webhook
 
+
     /**
      * Make for one kick from one side.
      * Check is unit.hp more than 0, if no - game will be stopped.
@@ -93,3 +94,4 @@ public with sharing class GameClass {
 
 //asdasdasd
 //kjshkjfhkjshdfjk
+/// Just a comment for this one
