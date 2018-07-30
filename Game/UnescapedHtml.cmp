@@ -1,0 +1,18 @@
+<aura:component >
+ <!-- 
+ /**
+ * Webkul Software.
+ *
+ * @category Webkul
+ * @author Webkul
+ * @copyright Copyright (c) 2010-2016 Webkul Software Private Limited (https://webkul.com)
+ * @license https://store.webkul.com/license.html
+ */
+ -->
+ <aura:attribute name="cval" type="String"/>
+ <aura:handler name="init" value="{!this}" action="{!c.myAction}" />
+ <div>
+ This value is rendered by using aura:unescapedHtml : <aura:unescapedHtml value="{!v.cval}" />
+ This value is rendered by span : <span>{!v.cval}</span>
+ </div>
+</aura:component>
