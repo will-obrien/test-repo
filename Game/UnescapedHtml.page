@@ -1,0 +1,5 @@
+<apex:page>
+
+<aura:unescapedHTML />
+
+</apex:page>
