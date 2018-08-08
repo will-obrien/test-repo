@@ -34,7 +34,7 @@ public with sharing class GameClass {
 		private void terribleMethod(){}
 
 
-
+public void foo(){}
     /**
      * Make for one kick from one side.
      * Check is unit.hp more than 0, if no - game will be stopped.
