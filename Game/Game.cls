@@ -31,7 +31,10 @@ public with sharing class GameClass {
     	return winner;
     }
 
-		private void terribleMethod(){}
+		private void terribleMethod(int param){
+		 param = param;
+		
+		}
 
 
 public void foo(){}
