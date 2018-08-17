@@ -31,7 +31,8 @@ public with sharing class GameClass {
     	return winner;
     }
 	
-	private void newOne(){}
+    //New Comment for VSTS
+    private void newOne(){}
 
 	
 
