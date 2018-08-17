@@ -30,6 +30,8 @@ public with sharing class GameClass {
     public Unit getWinner() {
     	return winner;
     }
+	
+	private void newOne(){}
 
 	
 
