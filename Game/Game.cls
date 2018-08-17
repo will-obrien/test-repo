@@ -31,8 +31,9 @@ public with sharing class GameClass {
     	return winner;
     }
 
-		private void terribleMethod(int param){
+		private void terribleMethod(Integer param){
 		 param = param;
+		 param = 4;
 		
 		}
 
