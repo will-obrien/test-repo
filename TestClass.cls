@@ -6,5 +6,5 @@ public class Foo {
   
   private void badMethod(){}
 
-
+  private void badMethodTwo(){}
 }
