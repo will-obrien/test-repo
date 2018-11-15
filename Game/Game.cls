@@ -30,12 +30,16 @@ public with sharing class GameClass {
     public Unit getWinner() {
     	return winner;
     }
+	
+    //New Comment for VSTS
+    private void newOne(){}
 
 		private void terribleMethod(Integer param){
 		 param = param;
 		 param = 4;
 		
 		}
+
 
 
 public void foo(){}
@@ -93,3 +97,4 @@ public void foo(){}
 
 //asdasdasd
 //kjshkjfhkjshdfjk
+/// Just a comment for this one
