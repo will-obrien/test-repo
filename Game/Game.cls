@@ -86,10 +86,3 @@ public with sharing class GameClass {
 	}
 }
 
-// another god damn comment
-//new commment for PR
-// Stupi github
-// PUSH TO MASTER
-
-//asdasdasd
-//kjshkjfhkjshdfjk
