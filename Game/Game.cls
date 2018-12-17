@@ -6,6 +6,7 @@
  * @author  Oi Nah Yeah nah
 
  * @version 1.0, June 2016
+ *New 
  */
 public with sharing class GameClass {
 	private List<String> gameDescriptionList;
